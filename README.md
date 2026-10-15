@@ -1,6 +1,3 @@
-# Jang-lupa-folow
-instagram
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
